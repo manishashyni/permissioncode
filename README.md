@@ -10,7 +10,7 @@ public class FolderCreation {
         boolean success = false;
        // boolean s;
     
-      Runtime.getRuntime().exec("net use p:\\\\ad.infosys.com\\storage\\gec\\TRAINEE\\HANDSON\\Sandeep_forToolTesting");
+      Runtime.getRuntime().exec("net use p: \\\\ad.infosys.com\\storage\\gec\\TRAINEE\\HANDSON\\Sandeep_forToolTesting\\");
      // File f = new File("\\\\ad.infosys.com\\storage\\gec\\TRAINEE\\HANDSON\\Sandeep_forToolTesting\\xy4");
       File f = new File("p:\\xy"); 
       {
